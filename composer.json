@@ -22,6 +22,5 @@
     "autoload": {
         "psr-0": { "utement\\gf-projectinfo-bundle": "" }
     },
-    "minimum-stability": "dev",
-    "target-dir": "utement/gf-projectinfo-bundle"
+    "minimum-stability": "dev"
 }
