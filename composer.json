@@ -1,9 +1,9 @@
 {
-    "name": "utement/GFProjectInfoBundle",
+    "name": "utement/gf-projectinfo-bundle",
     "type": "symfony-bundle",
     "description": "Simple bundle to show 'About' screen with git flow history.",
     "keywords": ["git-flow", "bundle"],
-    "homepage": "http://github.com/utement/GFProjectInfoBundle",
+    "homepage": "http://github.com/utement/gf-projectinfo-bundle",
     "license": "BSD",
     "authors": [
         {
@@ -20,8 +20,8 @@
         "symfony/process": "2.6.*@dev"
     },
     "autoload": {
-        "psr-0": { "utement\\GFProjectInfoBundle": "" }
+        "psr-0": { "utement\\gf-projectinfo-bundle": "" }
     },
     "minimum-stability": "dev",
-    "target-dir": "utement/GFProjectInfoBundle"
+    "target-dir": "utement/gf-projectinfo-bundle"
 }
