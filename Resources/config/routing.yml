@@ -1,0 +1,3 @@
+gf_project_info_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: GFProjectInfoBundle:Default:index }

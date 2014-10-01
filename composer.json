@@ -1,0 +1,27 @@
+{
+    "name": "utement/GFProjectInfoBundle",
+    "type": "symfony-bundle",
+    "description": "Simple bundle to show 'About' screen with git flow history.",
+    "keywords": ["git-flow", "bundle"],
+    "homepage": "http://github.com/utement/GFProjectInfoBundle",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Uroš Tement",
+            "email": "utement@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.1,<2.2-dev",
+        "symfony/finder": "2.3.*@dev",
+        "symfony/process": "2.6.*@dev"
+    },
+    "autoload": {
+        "psr-0": { "utement\\GFProjectInfoBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "utement/GFProjectInfoBundle"
+}
